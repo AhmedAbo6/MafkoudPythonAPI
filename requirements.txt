@@ -1,1 +1,7 @@
 Flask==1.0.2
+torch
+torchvision
+numpy
+PIL
+random
+werkzeug
